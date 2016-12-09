@@ -84,6 +84,10 @@ img {
   max-width: 100%;
 }
 
+.post-img {
+  padding: 2em;
+}
+
 .disqus-comments {
   margin-top: 30px;
 }
