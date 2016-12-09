@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: Building a Simple JavaFX Application
+title: Tutorial - Building a Simple JavaFX Application
 subtitle: Understanding the concepts of building a JavaFX Application and what goes on behind the scenes
 ---
 
