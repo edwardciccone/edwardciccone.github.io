@@ -3,8 +3,10 @@ layout: post
 title: Tutorial - Building a Simple JavaFX Application
 subtitle: Lets learn how to use JavaFX
 ---
+The purpose of this tutorial is to understand the concepts of JavaFX and what actually happens behind the scenes. Learning something from the inside out has created the strongest foundations for me when learning a new technology.  
 
-### Introduction
+My goal is to help you construct a solid base for JavaFX and set you on the right path to develop effecient and reusable software. 
+
 The goal of this tutorial is to build a simple JavaFX application but _more importantly, to learn the concepts and architecture of a JavaFX Application_.  
   
 Learning JavaFX from the inside out will help you grasp it way more effectively then if you just learned the syntax. Doing it this way, is the only way to do it.  
