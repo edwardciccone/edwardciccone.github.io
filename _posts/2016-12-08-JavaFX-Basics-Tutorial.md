@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Tutorial - Building a Simple JavaFX Application
-subtitle: Understanding the concepts of building a JavaFX Application and what goes on behind the scenes
+subtitle: Lets learn how to use JavaFX
 ---
 
 ### Introduction
-JavaFX is a very powerful library for building UI Applications in pure Java. The goal of this tutorial is to build a simple application using JavaFX as well as grasp the concepts of JavaFX so you can start building your own JavaFX applications.  
-I will show you how to configure your IDE environment, teach you step by step how to make a basic applications, and describe to you some best practices and concepts of JavaFX.
+The goal of this tutorial is to build a simple JavaFX application but _more importantly, to learn the concepts and architecture of a JavaFX Application_.  
+  
+Learning JavaFX from the inside out will help you grasp it way more effectively then if you just learned the syntax. Doing it this way, is the only way to do it.  
 
 ### Prerequiests
 - Java 8 installed on your local machine
